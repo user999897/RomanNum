@@ -50,7 +50,7 @@ public class RomanNum {
             }
         }
 
-
+//unnecessary actions
         switch (mas[mas.length - 1]) {
             case "I":
                 num += 1;
